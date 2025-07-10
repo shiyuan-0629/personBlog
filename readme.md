@@ -57,12 +57,10 @@ node index.js
 
 ## 5.项目截图
 ### 5.1 首页
-![首页](./screenshots/index.png)
+![首页](https://github.com/shiyuan-0629/personBlog/blob/master/images/home.png?raw=true)
 ### 5.2 分类详情页
-![分类详情页](./screenshots/category.png)
-### 5.3 留言板
-![留言板](./screenshots/message.png)
-### 5.4 文章详情页
-![文章详情页](./screenshots/detail.png)
+![分类详情页](https://github.com/shiyuan-0629/personBlog/blob/master/images/articles.png?raw=true)
+### 5.3 文章详情页
+![文章详情页](https://github.com/shiyuan-0629/personBlog/blob/master/images/detail.png?raw=true)
 
 
