@@ -1,0 +1,12 @@
+.main {
+    width: 100%;
+    height: calc(100vh - 60px);
+    padding: 30px;
+}
+.content {
+    width: calc(100% - 440px);
+    height: 800px;
+    position: absolute;
+    top: 90px;
+    left: 410px;
+}
